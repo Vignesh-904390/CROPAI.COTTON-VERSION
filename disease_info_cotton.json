@@ -1,0 +1,410 @@
+{
+    "Alternaria Leaf Spot": {
+        "fertilizer": "Balanced NPK",
+        "water": "Maintain moderate soil moisture",
+        "medicine": [
+            "Mancozeb",
+            "Copper oxychloride"
+        ],
+        "organic_medicine": [
+            "Neem oil",
+            "Trichoderma"
+        ],
+        "prevention": "Remove infected leaves and ensure proper spacing."
+    },
+    "Angular Leaf Spot": {
+        "fertilizer": "Nitrogen rich fertilizer",
+        "water": "Moderate watering to avoid leaf wetness",
+        "medicine": [
+            "Copper hydroxide",
+            "Chlorothalonil"
+        ],
+        "organic_medicine": [
+            "Neem oil",
+            "Bacillus subtilis"
+        ],
+        "prevention": "Avoid overhead irrigation and practice crop rotation."
+    },
+    "Anthracnose": {
+        "fertilizer": "Balanced fertilizer",
+        "water": "Keep soil moist but not waterlogged",
+        "medicine": [
+            "Carbendazim",
+            "Mancozeb"
+        ],
+        "organic_medicine": [
+            "Neem oil",
+            "Compost tea"
+        ],
+        "prevention": "Remove infected plant parts; maintain good air circulation."
+    },
+    "ash weevil Mylloecerus undecimpustulatus": {
+        "fertilizer": "Nitrogen + Potash",
+        "water": "Avoid overwatering to reduce pest breeding",
+        "medicine": [
+            "Imidacloprid",
+            "Thiamethoxam"
+        ],
+        "organic_medicine": [
+            "Neem cake",
+            "Garlic extract"
+        ],
+        "prevention": "Monitor fields and remove infested plants."
+    },
+    "Bacterial Blight": {
+        "fertilizer": "Balanced fertilizer",
+        "water": "Avoid wetting foliage",
+        "medicine": [
+            "Copper oxychloride",
+            "Streptomycin"
+        ],
+        "organic_medicine": [
+            "Neem extract",
+            "Bio-fertilizers"
+        ],
+        "prevention": "Use disease-free seeds and practice crop rotation."
+    },
+    "ball rot": {
+        "fertilizer": "Potassium rich fertilizer",
+        "water": "Reduce irrigation during flowering",
+        "medicine": [
+            "Thiram",
+            "Carbendazim"
+        ],
+        "organic_medicine": [
+            "Neem cake",
+            "Trichoderma"
+        ],
+        "prevention": "Maintain field hygiene and remove infected bolls."
+    },
+    "Black arm": {
+        "fertilizer": "Zinc and Boron supplements",
+        "water": "Moderate watering",
+        "medicine": [
+            "Fungicides like Mancozeb"
+        ],
+        "organic_medicine": [
+            "Neem oil",
+            "Vermicompost"
+        ],
+        "prevention": "Remove affected branches; monitor regularly."
+    },
+    "black arm diseases": {
+        "fertilizer": "Zinc and Boron supplements",
+        "water": "Moderate watering",
+        "medicine": [
+            "Fungicides like Mancozeb"
+        ],
+        "organic_medicine": [
+            "Neem oil",
+            "Vermicompost"
+        ],
+        "prevention": "Remove affected branches; monitor regularly."
+    },
+    "Boll Weevil Damage (fungal secondary infections)": {
+        "fertilizer": "Balanced NPK",
+        "water": "Maintain moderate soil moisture",
+        "medicine": [
+            "Insecticides for boll weevil",
+            "Fungicides as needed"
+        ],
+        "organic_medicine": [
+            "Neem oil spray",
+            "Organic pest traps"
+        ],
+        "prevention": "Regular scouting and early pest control."
+    },
+    "Cercospora Leaf Spot": {
+        "fertilizer": "Balanced NPK",
+        "water": "Avoid wetting leaves",
+        "medicine": [
+            "Mancozeb",
+            "Copper oxychloride"
+        ],
+        "organic_medicine": [
+            "Neem oil",
+            "Trichoderma"
+        ],
+        "prevention": "Remove infected leaves and ensure airflow."
+    },
+    "Cotton aphid": {
+        "fertilizer": "Nitrogen limited",
+        "water": "Moderate irrigation",
+        "medicine": [
+            "Imidacloprid",
+            "Thiamethoxam"
+        ],
+        "organic_medicine": [
+            "Neem oil",
+            "Garlic extract"
+        ],
+        "prevention": "Encourage natural predators and monitor regularly."
+    },
+    "cotton leaves curl disease": {
+        "fertilizer": "Balanced NPK",
+        "water": "Avoid overwatering",
+        "medicine": [
+            "Imidacloprid for vector control"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Use virus-free seeds and resistant varieties."
+    },
+    "Cotton Stem Weevil": {
+        "fertilizer": "Balanced fertilizer",
+        "water": "Maintain moderate soil moisture",
+        "medicine": [
+            "Carbofuran granules"
+        ],
+        "organic_medicine": [
+            "Neem cake"
+        ],
+        "prevention": "Remove infested stems; rotate crops."
+    },
+    "cotton wilt": {
+        "fertilizer": "Balanced fertilizer",
+        "water": "Avoid waterlogging",
+        "medicine": [
+            "Fungicides for wilt control"
+        ],
+        "organic_medicine": [
+            "Neem cake"
+        ],
+        "prevention": "Use resistant varieties and soil solarization."
+    },
+    "Fruit borer": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate irrigation",
+        "medicine": [
+            "Bacillus thuringiensis spray"
+        ],
+        "organic_medicine": [
+            "Neem oil",
+            "Trichogramma"
+        ],
+        "prevention": "Remove infested fruits and monitor regularly."
+    },
+    "Fusarium Wilt": {
+        "fertilizer": "Potassium rich fertilizer",
+        "water": "Avoid overwatering",
+        "medicine": [
+            "Fungicides like Carbendazim"
+        ],
+        "organic_medicine": [
+            "Neem cake",
+            "Bio-fertilizers"
+        ],
+        "prevention": "Use resistant varieties and rotate crops."
+    },
+    "Grey or Areolate mildew": {
+        "fertilizer": "Balanced NPK",
+        "water": "Avoid wetting foliage",
+        "medicine": [
+            "Sulfur sprays",
+            "Mancozeb"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Ensure proper spacing and remove infected leaves."
+    },
+    "leaf curl virus": {
+        "fertilizer": "Balanced fertilizer",
+        "water": "Moderate watering",
+        "medicine": [
+            "Insecticide to control whitefly vector"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Use virus-free seeds; remove infected plants."
+    },
+    "Leaf roller Sylepta derogate": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate irrigation",
+        "medicine": [
+            "Bacillus thuringiensis",
+            "Spinosad"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Monitor and remove rolled leaves."
+    },
+    "Leafhopper": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate watering",
+        "medicine": [
+            "Imidacloprid",
+            "Thiamethoxam"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Encourage natural predators; avoid excess nitrogen."
+    },
+    "Leafrust": {
+        "fertilizer": "Balanced NPK",
+        "water": "Avoid wetting foliage",
+        "medicine": [
+            "Mancozeb",
+            "Sulfur"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Remove infected leaves and maintain airflow."
+    },
+    "pink boll worm": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate irrigation",
+        "medicine": [
+            "Bacillus thuringiensis",
+            "Spinosad"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Remove infested bolls; monitor regularly."
+    },
+    "Red cotton bug Dysdercus cingulatusi": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate watering",
+        "medicine": [
+            "Insecticides like Malathion"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Remove crop residues and monitor for infestation."
+    },
+    "red leaves spot": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate watering",
+        "medicine": [
+            "Fungicides like Mancozeb"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Remove infected leaves; maintain airflow."
+    },
+    "root knot nematode": {
+        "fertilizer": "Zinc and Boron supplements",
+        "water": "Avoid overwatering",
+        "medicine": [
+            "Carbofuran granules"
+        ],
+        "organic_medicine": [
+            "Neem cake",
+            "Vermicompost"
+        ],
+        "prevention": "Rotate crops; use resistant varieties."
+    },
+    "root rot": {
+        "fertilizer": "Balanced NPK",
+        "water": "Reduce irrigation frequency",
+        "medicine": [
+            "Fungicides like Carbendazim"
+        ],
+        "organic_medicine": [
+            "Neem cake"
+        ],
+        "prevention": "Ensure proper drainage and avoid waterlogging."
+    },
+    "seed damping off": {
+        "fertilizer": "Balanced fertilizer",
+        "water": "Keep soil moist, not waterlogged",
+        "medicine": [
+            "Thiram seed treatment"
+        ],
+        "organic_medicine": [
+            "Neem cake"
+        ],
+        "prevention": "Use treated seeds and avoid overwatering."
+    },
+    "Spotted bollworms": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate irrigation",
+        "medicine": [
+            "Bacillus thuringiensis",
+            "Spinosad"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Remove infested bolls and monitor regularly."
+    },
+    "Stem borer": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate irrigation",
+        "medicine": [
+            "Bacillus thuringiensis",
+            "Spinosad"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Monitor stems and remove infested plants."
+    },
+    "Thrips": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate watering",
+        "medicine": [
+            "Imidacloprid",
+            "Spinosad"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Monitor regularly and maintain field hygiene."
+    },
+    "Tobacco Cutworm Spodoptera litura": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate irrigation",
+        "medicine": [
+            "Bacillus thuringiensis",
+            "Spinosad"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Monitor larvae; remove affected plants."
+    },
+    "verticillium wilt": {
+        "fertilizer": "Potassium and micronutrients",
+        "water": "Avoid overwatering",
+        "medicine": [
+            "Fungicides like Carbendazim"
+        ],
+        "organic_medicine": [
+            "Neem cake"
+        ],
+        "prevention": "Use resistant varieties and rotate crops."
+    },
+    "Whitefly Bemisia tabaci": {
+        "fertilizer": "Balanced NPK",
+        "water": "Moderate irrigation",
+        "medicine": [
+            "Imidacloprid",
+            "Thiamethoxam"
+        ],
+        "organic_medicine": [
+            "Neem oil"
+        ],
+        "prevention": "Introduce natural predators; monitor weekly."
+    },
+    "Healthy": {
+        "fertilizer": "Maintain balanced nutrients",
+        "water": "Normal field level",
+        "medicine": [
+            "No chemical treatment needed"
+        ],
+        "organic_medicine": [
+            "Neem cake",
+            "Vermicompost"
+        ],
+        "prevention": "Continue regular crop monitoring and hygiene."
+    }
+}
